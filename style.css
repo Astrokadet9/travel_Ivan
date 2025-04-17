@@ -1,0 +1,64 @@
+h1{
+    text-align: center;
+    background-color: aqua;
+}
+html{
+    background-color: yellow;
+}
+
+h2{
+    text-align: center;
+    background-color: aqua;
+}
+
+
+img{
+    width: 200px;
+    
+}
+p{
+    width: 200px;
+    height: 100px;
+    
+}
+
+section  {
+    display: flex;
+    justify-content: space-around;
+    background-color: yellow;
+
+
+
+
+}
+
+article{
+   
+   
+    background-color: yellow;
+}
+body{
+    background-color: yellow;
+}
+
+table:hover{
+    transform: translateY(200px);
+    transition: all 3s;
+}
+    
+    
+    
+
+td{
+
+    border: 10px black solid;
+}
+
+section:hover{
+    transform: scale(2);
+    transition: all 3s;
+}
+
+footer{
+    background-color: aqua;
+}
